@@ -3,8 +3,4 @@ console.log('Version 2')
 console.log('Version 3')
 console.log('Version 4')
 console.log('feature1 commiting 1')
-<<<<<<< HEAD
-console.log('feature1 commiting 3')
-=======
 console.log('feature1 commiting 2')
->>>>>>> conflict1
